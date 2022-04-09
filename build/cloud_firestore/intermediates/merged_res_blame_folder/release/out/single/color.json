@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\src\\flutter_windows_2.5.3-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_firestore-3.0.0\\android\\build\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Ashok\\.gradle\\caches\\transforms-2\\files-2.1\\e91c76fa5178367a03077f75662eefda\\jetified-play-services-base-17.1.0\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\src\\flutter_windows_2.5.3-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_firestore-3.0.0\\android\\build\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Ashok\\.gradle\\caches\\transforms-2\\files-2.1\\e91c76fa5178367a03077f75662eefda\\jetified-play-services-base-17.1.0\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\src\\flutter_windows_2.5.3-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_firestore-3.0.0\\android\\build\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\Ashok\\.gradle\\caches\\transforms-2\\files-2.1\\e91c76fa5178367a03077f75662eefda\\jetified-play-services-base-17.1.0\\res\\color\\common_google_signin_btn_tint.xml"
+    }
+]

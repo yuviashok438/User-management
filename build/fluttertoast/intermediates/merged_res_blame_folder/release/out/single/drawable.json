@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\src\\flutter_windows_2.5.3-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-8.0.8\\android\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Ashok\\.gradle\\caches\\transforms-2\\files-2.1\\af76990d3d6bef6e40e94314fb3bdfdb\\core-1.1.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\src\\flutter_windows_2.5.3-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-8.0.8\\android\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Ashok\\.gradle\\caches\\transforms-2\\files-2.1\\af76990d3d6bef6e40e94314fb3bdfdb\\core-1.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\src\\flutter_windows_2.5.3-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-8.0.8\\android\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Ashok\\.gradle\\caches\\transforms-2\\files-2.1\\af76990d3d6bef6e40e94314fb3bdfdb\\core-1.1.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\src\\flutter_windows_2.5.3-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-8.0.8\\android\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Ashok\\.gradle\\caches\\transforms-2\\files-2.1\\af76990d3d6bef6e40e94314fb3bdfdb\\core-1.1.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\src\\flutter_windows_2.5.3-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-8.0.8\\android\\build\\intermediates\\res\\merged\\release\\drawable\\toast_bg.xml",
+        "source": "D:\\src\\flutter_windows_2.5.3-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-8.0.8\\android\\src\\main\\res\\drawable\\toast_bg.xml"
+    },
+    {
+        "merged": "D:\\src\\flutter_windows_2.5.3-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-8.0.8\\android\\build\\intermediates\\res\\merged\\release\\drawable\\corner.xml",
+        "source": "D:\\src\\flutter_windows_2.5.3-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-8.0.8\\android\\src\\main\\res\\drawable\\corner.xml"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\src\\flutter_windows_2.5.3-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\vibration-1.7.4-nullsafety.0\\android\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Ashok\\.gradle\\caches\\transforms-2\\files-2.1\\af76990d3d6bef6e40e94314fb3bdfdb\\core-1.1.0\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\src\\flutter_windows_2.5.3-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\vibration-1.7.4-nullsafety.0\\android\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Ashok\\.gradle\\caches\\transforms-2\\files-2.1\\af76990d3d6bef6e40e94314fb3bdfdb\\core-1.1.0\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\src\\flutter_windows_2.5.3-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\vibration-1.7.4-nullsafety.0\\android\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Ashok\\.gradle\\caches\\transforms-2\\files-2.1\\af76990d3d6bef6e40e94314fb3bdfdb\\core-1.1.0\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\src\\flutter_windows_2.5.3-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\vibration-1.7.4-nullsafety.0\\android\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Ashok\\.gradle\\caches\\transforms-2\\files-2.1\\af76990d3d6bef6e40e94314fb3bdfdb\\core-1.1.0\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\src\\flutter_windows_2.5.3-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\vibration-1.7.4-nullsafety.0\\android\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Ashok\\.gradle\\caches\\transforms-2\\files-2.1\\af76990d3d6bef6e40e94314fb3bdfdb\\core-1.1.0\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    }
+]

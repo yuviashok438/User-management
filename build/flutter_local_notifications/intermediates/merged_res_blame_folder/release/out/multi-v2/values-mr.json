@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\src\\flutter_windows_2.5.3-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_local_notifications-9.1.0\\android\\build\\intermediates\\res\\merged\\release\\values-mr\\values-mr.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ashok\\.gradle\\caches\\transforms-2\\files-2.1\\d5a4169082ada9e662a22cd1f2683fac\\core-1.3.0\\res\\values-mr\\values-mr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\samples\\flutter-samples\\MyApps\\MyApps\\KSix_app\\build\\flutter_local_notifications\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-mr\\values-mr.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ashok\\.gradle\\caches\\transforms-2\\files-2.1\\d5a4169082ada9e662a22cd1f2683fac\\core-1.3.0\\res\\values-mr\\values-mr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\src\\flutter_windows_2.5.3-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-8.0.8\\android\\build\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Ashok\\.gradle\\caches\\transforms-2\\files-2.1\\af76990d3d6bef6e40e94314fb3bdfdb\\core-1.1.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\src\\flutter_windows_2.5.3-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-8.0.8\\android\\build\\intermediates\\res\\merged\\release\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\Ashok\\.gradle\\caches\\transforms-2\\files-2.1\\af76990d3d6bef6e40e94314fb3bdfdb\\core-1.1.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "D:\\src\\flutter_windows_2.5.3-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-8.0.8\\android\\build\\intermediates\\res\\merged\\release\\layout\\toast_custom.xml",
+        "source": "D:\\src\\flutter_windows_2.5.3-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-8.0.8\\android\\src\\main\\res\\layout\\toast_custom.xml"
+    },
+    {
+        "merged": "D:\\src\\flutter_windows_2.5.3-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-8.0.8\\android\\build\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Ashok\\.gradle\\caches\\transforms-2\\files-2.1\\af76990d3d6bef6e40e94314fb3bdfdb\\core-1.1.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\src\\flutter_windows_2.5.3-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-8.0.8\\android\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Ashok\\.gradle\\caches\\transforms-2\\files-2.1\\af76990d3d6bef6e40e94314fb3bdfdb\\core-1.1.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\src\\flutter_windows_2.5.3-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-8.0.8\\android\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Ashok\\.gradle\\caches\\transforms-2\\files-2.1\\af76990d3d6bef6e40e94314fb3bdfdb\\core-1.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\src\\flutter_windows_2.5.3-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-8.0.8\\android\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Ashok\\.gradle\\caches\\transforms-2\\files-2.1\\af76990d3d6bef6e40e94314fb3bdfdb\\core-1.1.0\\res\\layout\\notification_template_part_time.xml"
+    }
+]
